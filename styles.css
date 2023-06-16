@@ -13,10 +13,10 @@ p:nth-last-child(3){
             background-color: pink;
         }
         li:first-child{
-            background-color: white;
+            background-color: black;
         }
         li:last-child{
-            background-color: white;
+            background-color: black;
         }
         li:nth-child(even)
         {
