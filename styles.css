@@ -1,6 +1,7 @@
 :root{
             background-color: skyblue;
         }
+
 p:first-child{
             background-color: black;
 	       color:white;
