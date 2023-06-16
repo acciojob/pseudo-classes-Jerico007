@@ -4,10 +4,10 @@
 
 p:first-child{
             background-color: black;
-	       color:black;
+	       color:white;
         }
-p:nth-last-child(3){
-            color:red;
+p:last-child(3){
+            color:white;
 }
 
         li:nth-child(odd)
