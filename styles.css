@@ -6,8 +6,8 @@ p:first-child{
             background-color: black;
 	       color:white;
         }
-p:last-child(3){
-            color:white;
+p:last-child{
+            color:red;
 }
 
         li:nth-child(odd)
