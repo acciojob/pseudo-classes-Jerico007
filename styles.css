@@ -1,11 +1,11 @@
 :root{
             background-color: skyblue;
         }
-p:nth-child(3){
-          background-color: black;
-        color:white;
-}
-p:nth-child(6){
+p:nth-child(2){
+            background-color: black;
+            color:white;
+        }
+p:nth-child(5){
             color:red;
 }
 
