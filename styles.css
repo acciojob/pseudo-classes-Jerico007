@@ -4,7 +4,7 @@
 
 p:first-child{
             background-color: black;
-	       color:white;
+	       color:red;
         }
 p:nth-last-child(3){
             color:red;
